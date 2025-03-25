@@ -55,6 +55,14 @@
         ]
       }
     ],
+         "navigation": {
+  "tabs": [
+    {
+        "tab": "API Reference",
+        "openapi": "https://stage.paragonsolutions.com/api/swagger/v2/swagger.json"
+    }
+  ]
+}
     "global": {
       "anchors": [
         {
